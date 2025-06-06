@@ -1,0 +1,66 @@
+:root{
+    --primary-violeta: #A855F7;
+    --secondary-violeta: rgba(232, 209, 253, 0.31);
+    --tertiary-violet: rgba(230, 212, 248, 0.195);
+    --font-color-gray: #4F4F4F;
+    --font-color-white: #FFFFFF;
+}
+
+body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+/* ELEMENTOS DO HEADER */
+.header{
+    width: 100%;
+    padding: 30px 0px;
+    text-align: center;
+    background-color: var(--secondary-violeta);
+}
+
+.header-title{
+    color: var(--primary-violeta);
+}
+
+.header-subtitle{
+    color: var(--font-color-gray);
+    font-size: 1.5rem;
+}
+
+.btn.view-project{
+    display: inline-flex;
+    align-items: center;
+    gap: 0.5rem;
+    background-color: var(--primary-violeta);
+    color: var(--font-color-white);
+    transition: box-shadow 0.3s ease;
+}
+
+.btn.view-project:hover{
+    color: var(--primary-violeta);
+    border: 1px solid var(--primary-violeta);
+    box-shadow: 0 6px 12px #e8d1fdcc; 
+}
+
+
+
+/* ELEMENTOS DA MAIN - CARDS */
+.main-card-container{
+    background-color: var(--tertiary-violet);
+    padding: 50px;
+}
+
+
+/* ELEMENTOS DO FOOTER */
+.footer{
+    text-align: center;
+    margin: 30px;
+}
+
+.link-github{
+    text-decoration: none;
+    color: var(--primary-violeta);
+}
+
