@@ -1,7 +1,6 @@
 # Capacita Ciclo 02 – Projetos de Desenvolvimento Web
 
-Este repositório contém os projetos desenvolvidos durante o curso Capacita Brasil – Ciclo 02, com foco na formação de desenvolvedores fullstack.  
-Cada projeto foi criado para explorar conceitos fundamentais do desenvolvimento web, utilizando HTML, CSS e JavaScript.
+Este repositório contém os projetos desenvolvidos durante o curso Capacita Brasil – Ciclo 02, com foco na formação de desenvolvedores fullstack. Cada projeto foi criado para explorar conceitos fundamentais do desenvolvimento web, inicialmente utilizando HTML, CSS e JavaScript.
 
 ## Projetos
 
@@ -22,5 +21,5 @@ Cada projeto foi criado para explorar conceitos fundamentais do desenvolvimento 
 
 ---
 
-Para visualizar os projetos, acesse o site oficial:  
+Para visualizar os projetos, acesse o site:  
 [https://chryssstina.github.io/Capacita-Ciclo02/](https://chryssstina.github.io/Capacita-Ciclo02/)
